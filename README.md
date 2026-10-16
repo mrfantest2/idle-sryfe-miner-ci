@@ -4,7 +4,7 @@ This **public** repository contains **only safe build metadata, release notes an
 
 ## Status
 - Game: Idle Sryfe Miner
-- Phase: CP001 native Android prototype
+- Phase: CP001-R redesign — original Sryfe mining fields, ore processing, automation and progression inspired by Idle Obelisk Miner (not Monolith Miner)
 - Monetization: disabled; fairness-first design
 - Official APK: not released yet
 - Private source: **not mirrored**, checked out or uploaded here.
@@ -13,7 +13,7 @@ This **public** repository contains **only safe build metadata, release notes an
 The public GitHub-hosted runner checks the published metadata and enforces a source-leak guard. **Native Android builds use the private repository's own GitHub-hosted runners**. GitHub Actions works for private repositories too. We intentionally do not put a private-source checkout token in public workflows or expose source-containing build artifacts.
 
 ## Development checkpoints
-1. CP001 playable vertical slice
+1. CP001-R Obelisk-inspired multi-rock mining and crafting vertical slice
 2. CP002 progression and visual polish
 3. CP003 economy and balance testing
 4. CP004 original Sryfe visuals and cosmetics
