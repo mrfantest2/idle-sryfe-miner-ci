@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+*.apk
+*.aab
+*.zip
+__pycache__/
